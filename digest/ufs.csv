@@ -1,0 +1,28 @@
+id;sigla;nome;regiao
+11;RO;Rondônia;{'id': 1, 'sigla': 'N', 'nome': 'Norte'}
+12;AC;Acre;{'id': 1, 'sigla': 'N', 'nome': 'Norte'}
+13;AM;Amazonas;{'id': 1, 'sigla': 'N', 'nome': 'Norte'}
+14;RR;Roraima;{'id': 1, 'sigla': 'N', 'nome': 'Norte'}
+15;PA;Pará;{'id': 1, 'sigla': 'N', 'nome': 'Norte'}
+16;AP;Amapá;{'id': 1, 'sigla': 'N', 'nome': 'Norte'}
+17;TO;Tocantins;{'id': 1, 'sigla': 'N', 'nome': 'Norte'}
+21;MA;Maranhão;{'id': 2, 'sigla': 'NE', 'nome': 'Nordeste'}
+22;PI;Piauí;{'id': 2, 'sigla': 'NE', 'nome': 'Nordeste'}
+23;CE;Ceará;{'id': 2, 'sigla': 'NE', 'nome': 'Nordeste'}
+24;RN;Rio Grande do Norte;{'id': 2, 'sigla': 'NE', 'nome': 'Nordeste'}
+25;PB;Paraíba;{'id': 2, 'sigla': 'NE', 'nome': 'Nordeste'}
+26;PE;Pernambuco;{'id': 2, 'sigla': 'NE', 'nome': 'Nordeste'}
+27;AL;Alagoas;{'id': 2, 'sigla': 'NE', 'nome': 'Nordeste'}
+28;SE;Sergipe;{'id': 2, 'sigla': 'NE', 'nome': 'Nordeste'}
+29;BA;Bahia;{'id': 2, 'sigla': 'NE', 'nome': 'Nordeste'}
+31;MG;Minas Gerais;{'id': 3, 'sigla': 'SE', 'nome': 'Sudeste'}
+32;ES;Espírito Santo;{'id': 3, 'sigla': 'SE', 'nome': 'Sudeste'}
+33;RJ;Rio de Janeiro;{'id': 3, 'sigla': 'SE', 'nome': 'Sudeste'}
+35;SP;São Paulo;{'id': 3, 'sigla': 'SE', 'nome': 'Sudeste'}
+41;PR;Paraná;{'id': 4, 'sigla': 'S', 'nome': 'Sul'}
+42;SC;Santa Catarina;{'id': 4, 'sigla': 'S', 'nome': 'Sul'}
+43;RS;Rio Grande do Sul;{'id': 4, 'sigla': 'S', 'nome': 'Sul'}
+50;MS;Mato Grosso do Sul;{'id': 5, 'sigla': 'CO', 'nome': 'Centro-Oeste'}
+51;MT;Mato Grosso;{'id': 5, 'sigla': 'CO', 'nome': 'Centro-Oeste'}
+52;GO;Goiás;{'id': 5, 'sigla': 'CO', 'nome': 'Centro-Oeste'}
+53;DF;Distrito Federal;{'id': 5, 'sigla': 'CO', 'nome': 'Centro-Oeste'}
